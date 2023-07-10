@@ -58,7 +58,7 @@ base_honey_directory = "https://genshin.honeyhunterworld.com/img/"
 ## Scan through everything in base_data.data.items, and show the character with a progressbar
 for character_id in tqdm(base_data.data.items):
     char = avatar_data_from_dict(requests.get(f"{base_url}/{character_id}").json()).data
-
+    char_data = requests.get(f"{base_url}/{character_id}").json()
     use_directory = f"{base_directory}{str(Elements(char.element)).lower()}/{char.name}"
     print(f" Downloading Items for: {char.name} ({Elements(char.element)})")
     if char.name == "Traveler":
