@@ -17,4 +17,4 @@ Itto Bot is not affiliated with, supported by, or made by Discord Inc. Any refer
 The owner of the bot cannot be held liable for individuals breaking these terms of service. We trust that users will be truthful and will not misuse the bot or Discord in any malicious way. We reserve the right to update these terms at any time. Users may opt-out if they do not agree to any changes in the terms of service by removing the bot from any server they have the ability to do so in.
 
 ### Contact
-Support can be obtained by contacting Furiã#0381, FuriaPaladins on twitter, or the official Development Server of the bot. Other forms of support may be provided but aren't guaranteed
+Support can be obtained by contacting @furia, FuriaPaladins on twitter, or the official Development Server of the bot. Other forms of support may be provided but aren't guaranteed

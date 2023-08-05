@@ -30,4 +30,4 @@ For all announcements, the only data stored is the channel ID that the announcem
 ```
 
 NOTE:
-If you ever wish to delete any of your data stored by the bot, please DM the bot developer, @Furiã, or join the [Bot Development server](https://discord.gg/hme7QP5uGd "Bot Development server") and ask for your data to be removed.
+If you ever wish to delete any of your data stored by the bot, please DM the bot developer, @furia, or join the [Bot Development server](https://discord.gg/hme7QP5uGd "Bot Development server") and ask for your data to be removed.
