@@ -25,7 +25,7 @@
 **Fixes**  
 - Added icons for the Siege Remixed maps
 - Fixed icons for certain payload maps
-- Added proper error message for Hirez api being broken at the moment
+- Added proper error message for Hirez api being broken at the moment  
 **Changes**  
 - Removed skin image from the secondary image as some skins are missing official icons and maintaining this system was very tedious.
 - Reworked how match image customisation works.
