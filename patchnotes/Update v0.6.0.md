@@ -25,7 +25,7 @@
 **Fixes**  
 - Added icons for the Siege Remixed maps
 - Fixed icons for certain payload maps
-- Added proper error message for Hirez api being broken at the moment  
+- Added proper error message for Hirez api being broken at the moment
 **Changes**  
 - Removed skin image from the secondary image as some skins are missing official icons and maintaining this system was very tedious.
 - Reworked how match image customisation works.
@@ -63,6 +63,10 @@
 ## Genshin
 ### `/genshin account stats`
 - Added "Owned Chars" which shows how many characters you own and the total amount of available characters in the game
+
+### `/genshin search bosses`
+- Displays an image with bosses and their material drops.
+This is one of the commands that will come for `/genshin search`. More will be added for materials later down the line.
 ## Star Rail
 ### `/starrail account stats`
 - Added the limited amount of data that battle chronicle displays for Star Rail currently.
