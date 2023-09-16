@@ -22,34 +22,33 @@
  - Note: Can still potentially throw an error, but will now work more often and means there should be no need for a `/search` command
 - Players with valid discord formatting in their names will no longer display like*this*.
 ### `/paladins match`
-**Fixes**
+**Fixes**  
 - Added icons for the Siege Remixed maps
 - Fixed icons for certain payload maps
 - Added proper error message for Hirez api being broken at the moment
-**Changes**
+**Changes**  
 - Removed skin image from the secondary image as some skins are missing official icons and maintaining this system was very tedious.
 - Reworked how match image customisation works.
  - You can now choose between CSS colour names as well as HEX codes.
  - Added "Reset All" button
  - Other users can no longer edit your image if they have access to the customisation buttons.
 ### `/paladins loadouts` & `/paladins cards`
-**Changes**
+**Changes**  
 - Added a new "Toggle Image" button that toggles between the champion background & title card and just the loadout cards.
-
-**Fixes**
+**Fixes**  
 - Fixed numerous issues with Mal'Damba and other selections
 - Fixed issue where clicking "Generate" for `/paladins cards` without selecting a card first would cause an error
 - Fixed autocomplete not working for the `champions` field in `/paladins cards`
 - Fixed loadouts not working for Sha Lin and Vii.
 - Fixed how the background image is cropped so that the whole art is showcased.
 ### `/paladins current`
-**Changes**
+**Changes**  
 - Changed how it looks with multiple users in the command to make it easier to identify users by ID
 - Properly implemented faster query for inputting multiple player ID's.
  - The bot will now add a note when multiple names are provided rather than ID's.
 
 ### `/paladins champions`
-**Changes**
+**Changes**  
 - Added "Sorting by {}" notifier the top.
 ## Genshin & Star Rail
 - Renamed `profile` to `account` to not conflict with `/paladins profile`
