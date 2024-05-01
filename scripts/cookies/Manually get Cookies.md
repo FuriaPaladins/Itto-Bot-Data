@@ -9,4 +9,5 @@
  - EG: If both ltoken and ltoken_v2 are present, only get the ltoken_v2.  
 6. You must format it something like:  
  - ltoken=[Insert ltoken here]; ltuid=[Insert ltuid here];  
+ - (It should look something like: `ltoken=v2_CAISDGM5b3FhcTNzM2d1OBokNjA2ODMxODEtZTY4MS00ZmU1LTg1ZGMtYWNjODcyZTAwNjMwIIiAq6oGKPS7i8UDMKfs8SpCC2Jic19vdmVyc2Vh; ltuid=89945639;`)
 7. Paste this into the bot where it asks you to, and if you did it correctly, it will link your account properly.  
